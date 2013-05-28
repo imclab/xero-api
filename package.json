@@ -1,0 +1,10 @@
+{
+  "name": "xero-api",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "json2xml": "0.0.1",
+    "oauth": "*"
+  },
+  "main": "./xero.js"
+}
